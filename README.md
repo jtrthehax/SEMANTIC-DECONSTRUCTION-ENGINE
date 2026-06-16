@@ -50,7 +50,7 @@ Researchers, auditors, and analysts who need structural clarity rather than inte
 
 ## How to Run
 
-1. Open [spec/SDE_system_prompt_v0.1.md](./spec/SDE_system_prompt_v0.1.md)
+1. Open [spec/SDE_system_prompt.md](./spec/SDE_system_prompt.md)
 2. Load its contents as your model's system prompt
 3. Feed any passage of text into the analysis pipeline. The SDE does not rewrite or interpret the passage — it reports structural properties only.
 4. The model will return a structured flag report, compression score, and 
