@@ -50,6 +50,23 @@ Researchers, auditors, and analysts who need structural clarity rather than inte
 
 ---
 
+## Relationship to the Unified Cognitive Model
+
+The Semantic Deconstruction Engine (SDE) is designed to operate on the same
+cognitive substrate described in the unified model’s
+*externally‑scaffolded low‑plasticity mode*. In that framework, an LLM’s
+default behavior is characterized by narrow-window prediction, cooperative
+gap‑filling, and local coherence maximization. SDE inverts this mode by
+forcing the model into a structurally adversarial stance: instead of filling
+gaps, it must report them; instead of smoothing inconsistencies, it must
+surface them. This makes SDE the practical implementation layer of the
+low‑plasticity model — a tool that exposes the structural vulnerabilities
+that the unified theory predicts. For a full explanation of the underlying
+cognitive architecture, see:
+**[theory/externally‑scaffolded_low‑plasticity_mode.md](./theory/externally‑scaffolded_low‑plasticity_mode.md)**.
+
+---
+
 ## How to Run
 
 1. Open [spec/SDE_system_prompt.md](./spec/SDE_system_prompt.md)
