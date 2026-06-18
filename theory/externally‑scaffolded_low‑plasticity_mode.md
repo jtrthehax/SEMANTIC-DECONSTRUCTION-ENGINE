@@ -5,9 +5,10 @@ when internal agency collapses and the system outsources
 stability, prediction, and identity to an external structure._
 
 **Regulatory Dynamics Foundation:**
-[Postural Modes and Amplitude](./postural_modes_and_amplitude.md) |
-[Asymmetry Primitives](./asymmetry_primitives.md) |
-[Lateralization Dynamics](./lateralization_dynamics.md)
+For the full cognitive architecture that SDE operationalizes, see the unified
+model for cognitive explanation
+https://github.com/jtrthehax/UNIFIED-MODEL/
+
 
 ---
 
